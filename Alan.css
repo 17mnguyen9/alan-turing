@@ -1,0 +1,49 @@
+/*=======Structure=======*/
+.top-text {
+  height: auto;
+  padding: 5em;
+}
+h2, h3, h4 {
+  font-family: 'Playfair Display', serif;
+}
+p {
+  font-family: 'PT Sans', sans-serif;
+}
+h1 {
+    font-size: 450%;
+}
+
+.photo-full-width {
+  height: 600px;
+  background-image: url(http://cdn.wccftech.com/wp-content/uploads/2016/09/alan-turing.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  margin-bottom: 5em;
+  color: #fff;
+}
+
+.secondary {
+  padding: 2em;
+}
+
+.name {
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  list-style: none;
+}
+
+.footer {
+  height: 200px;
+  margin-top: 2em;
+  background-color: #fafaf3;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer p {
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  color: #333;
+}
